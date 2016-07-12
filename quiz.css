@@ -1,0 +1,14 @@
+article {
+  width: 30%;
+  float: left;
+  padding: 20px;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+}
+
+.card1 {
+margin-top: 18px;
+}
