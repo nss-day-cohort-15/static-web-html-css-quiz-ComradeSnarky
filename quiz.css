@@ -26,13 +26,13 @@ img {
 }
 
 /*product description*/
-p:nth-of-type(1n) {
+p:nth-of-type(2n) {
   text-align: justify;
   padding: 0 1%;
 }
 
 /*available line*/
-p:nth-of-type(2n) {
+p:nth-of-type(3n) {
   border: 1px solid #585858;
   color: #FFFF00;
   background-color: #585858;
