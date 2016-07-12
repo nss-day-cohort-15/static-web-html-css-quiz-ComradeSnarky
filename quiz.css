@@ -28,6 +28,7 @@ img {
 /*product description*/
 p:nth-of-type(1n) {
   text-align: justify;
+  padding: 0 1%;
 }
 
 /*available line*/
