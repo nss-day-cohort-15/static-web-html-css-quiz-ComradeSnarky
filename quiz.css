@@ -1,0 +1,51 @@
+article {
+  width: 30%;
+  margin: 0.5%;
+  border: solid 1px #58FAF4;
+  display: inline-block;
+  font-family: sans-serif;
+}
+
+/*product heading*/
+.product {
+  text-align: center;
+  border: 1px dotted #BDBDBD;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+
+/*specs and pricing header*/
+.title {
+  padding-left: 3%;
+}
+
+/*product description*/
+p:nth-of-type(2n) {
+  text-align: justify;
+  padding: 0 1%;
+}
+
+/*available line*/
+p:nth-of-type(3n) {
+  border: 1px solid #585858;
+  color: #FFFF00;
+  background-color: #585858;
+  font-size: 15px;
+}
+
+/*specs and pricing divs*/
+div {
+  font-weight: bold;
+  font-size: 12px;
+  padding-left: 5%;
+}
+
+footer {
+  font-size: 9px;
+}
